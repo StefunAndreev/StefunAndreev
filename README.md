@@ -21,7 +21,6 @@
           <h3>Не стесняйтесь написать мне:</h3>
         </strong>
         <a href="https://t.me/Fo1ugen"><img width="100" height="100" alt="Telegram" src="https://github.com/user-attachments/assets/07d75eb9-f1ad-4d4c-bd8f-37967d0eb1bc" /></a>
-        <a href="https://vk.com/watanaby"><img width="100" height="100" alt="VK" src="https://github.com/user-attachments/assets/12084b0d-d0d1-4f6b-b256-5eebb038bc31" /></a>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/2ca05577-95cd-491d-a2b2-225984e48568" alt="Pixel Art GIF" width="300" height="500">
