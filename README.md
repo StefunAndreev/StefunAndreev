@@ -11,8 +11,10 @@
   <div>
     <div>
       <h2>📫 Свяжитесь со мной!</h2>
-      <p>Всегда открыт для новых возможностей, сотрудничества и обсуждения бэкенд‑разработки.</p>
-      <p>Не стесняйтесь написать мне:</p>
+      <h3>
+        <p>Всегда открыт для новых возможностей, сотрудничества и обсуждения бэкенд‑разработки.</p>
+        <p>Не стесняйтесь написать мне:</p>
+      </h3>
       <a href="https://t.me/Fo1ugen"><img src="https://img.shields.io/badge/Telegram-Stefan-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Написать мне в Telegram"></a>
       <a href="https://vk.com/watanaby"><img src="https://img.shields.io/badge/VK-Stefan-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Написать мне в VK"></a>
     </div>
